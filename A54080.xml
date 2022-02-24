@@ -1,0 +1,451 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain certificates received from America, on behalf of Samvel Jennings, tending to clear him from scandals cast on him by George Keith, and others of his opposers made publick by John Pennington.</title>
+            <author>Penington, John, 1655-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54080</idno>
+            <idno type="STC">Wing P1224</idno>
+            <idno type="STC">ESTC R18336</idno>
+            <idno type="EEBO-CITATION">12558907</idno>
+            <idno type="OCLC">ocm 12558907</idno>
+            <idno type="VID">63130</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54080)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63130)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 701:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain certificates received from America, on behalf of Samvel Jennings, tending to clear him from scandals cast on him by George Keith, and others of his opposers made publick by John Pennington.</title>
+                  <author>Penington, John, 1655-1710.</author>
+               </titleStmt>
+               <extent>[2], 43 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by J. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jennings, Samuel, d. 1708. --  State of the case.</term>
+               <term>Keith, George, 1639?-1716. --  Further discovery.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63130:1"/>
+            <pb facs="tcp:63130:1"/>
+            <p>CERTAIN CERTIFICATES Received from AMERICA, On behalf of
+<hi>SAM<g ref="char:V">Ʋ</g>EL JENNINGS,</hi> Tending to clear him from Scandals, Caſt on him by <hi>George Keith,</hi> and others of his Oppoſers.</p>
+            <p>Made publick by <hi>Iohn Pennington.</hi>
+            </p>
+            <q>
+               <p>He that hideth Hatred with lying Lips, and he that uttereth a Slander, is a Fool,</p>
+               <bibl>
+                  <hi>Prov. 10.18.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London</hi> Printed, and Sold by <hi>T. Sowle,</hi> near the
+<hi>Meeting-Houſe</hi> in <hi>White-Hart-Court</hi> in
+<hi>Gracious-Street</hi> and at the <hi>Crooked-Billet</hi> in
+<hi>Holywell-Land</hi> near <hi>Shoreditch,</hi> 1695.</p>
+         </div>
+         <div type="publisher_to_the_reader">
+            <pb facs="tcp:63130:2"/>
+            <pb n="1" facs="tcp:63130:2"/>
+            <head>The Publiſher to the READER.</head>
+            <p>HAVING read <hi>Geo. Keith's</hi> Book, Entituled. <hi>A further Diſcovery,</hi> &amp;c. pretended to be in Anſwer to <hi>S. J's.</hi> Book, called <hi>The State of the Caſe,</hi> and obſerving with what heat he flings his <hi>proofleſs</hi> Accuſa<g ref="char:EOLhyphen"/>tions againſt the ſaid <hi>S. J.</hi> whom he might know to be remote, and out of the reach of his Charge (being on his Voyage to <hi>America</hi>) I thought it would not be unacceptable to the moderate and impartial, as well as a Duty to the injured, if I preſented him with ſuch <hi>Certificates,</hi> as the ſaid <hi>S. J.</hi> re<g ref="char:EOLhyphen"/>ceived, <hi>after the publication of his Book,</hi> not long before his leaving us, and had depoſi<g ref="char:EOLhyphen"/>ted with a Friend in <hi>London,</hi> to be diſperſed, as Service might be ſeen in the Spreading thereof; having notice in an <hi>Advertiſement</hi> printed in <hi>G. K's.</hi> late anſwer to <hi>T. E.</hi> that he deſigned an anſwer to his Book.</p>
+            <p>
+               <pb n="2" facs="tcp:63130:3"/>I ſhall ſay little to the Book it ſelf, it chiefly relating to matters of Fact, tranſ<g ref="char:EOLhyphen"/>acted in another part of the World, of which I am no Eye-and Ear-witneſs; nor is it ſo proper to be debated, but between perſons privy to thoſe ſeveral actions. But in as much as it is probable, that by reaſon of the diſtance of place, and unſafenes of the Seas, <hi>G. K</hi>'s anſwer may not reach thither in a long while, and the return from thence muſt needs be yet longer, I offer theſe in the mean-while, adviſing all that would not condemn a Man unheard, to ſuſpend their Judgment in the reſt, till the accuſed can have an opportunity to defend him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>Yet two or three Obſervations (among the many that Book affords to an Obſervant Eye) I am not willing wholly to paſs by, that, as <hi>ex pede Herculem,</hi> by this little the Reader may have a taſte of the reſt.</p>
+            <p>
+               <hi>Firſt,</hi> As to the Stile and Language there<g ref="char:EOLhyphen"/>of, I freely Submit it to the Conſiderate, who hath read both Books, to judge which of the two, <hi>G. K.</hi> or his Opponent, hath ſhewed himſelf moſt Maſter of his own Spi<g ref="char:EOLhyphen"/>rit, it being a true Maxim delivered by the Apoſtle
+<hi>James,</hi> that if <hi>any Man among you ſeem to be Religious, and bridleth not his Tongue, but deceiveth his own heart, this man's Religion
+<pb facs="tcp:63130:3"/> is vain,</hi> Chap. 1. Ver. 26. Yet let me add, that while he magnifies his own Patience, ſaying, <hi>God hath endued him with a good mea<g ref="char:EOLhyphen"/>ſure of patience,</hi> and <hi>what he hath born with much Patience,</hi> p. 25. in the next line he Juſtifieth his calling Friends <hi>Blood-thirſty hounds,</hi> and in the ſame <hi>page</hi> theſe words, <hi>Cut me in Collops, Fry me, Eat me;</hi> the Reader may give a gueſs, what will paſs for <hi>Patience</hi> with him.</p>
+            <p>
+               <hi>Secondly,</hi> The aboveſaid inſtance leads me to take notice of his Language to Friends in <hi>Penſilvania,</hi> what artifices he uſeth to palliate it, and how he beſpeaks his own Praiſe, in the ſlight, vain-glorious acknowledgment he makes.</p>
+            <p>The Miniſtring Friends, at their Meeting held at
+<hi>Philadelpha</hi> the 24, 4th Month, 1693. relating his calling <hi>Friends in their Religious Meetings Hypocrites, Snakes, Vipers, Blood-thirſty Hounds, Impudent Raſcals, and the like; bidding them Cut him in Collops, Fry him, and Eat him, and ſaying his Back had long Itched to be Whipt. And</hi> that
+<hi>at the ſame juncture, he ſaid, he was like our Lord and Saviour Jeſus Chriſt, Comparing himſelf to a Dove and a Lamb, (State of the Caſe,</hi> p. 23.) This Charge he doth not deny, but applauds his own Patience, as hinted already.</p>
+            <p>For the term <hi>Blood-thirſty Hounds,</hi> he alledgeth (but without a proof) that <hi>what <pb n="4" facs="tcp:63130:4"/> he was accuſed of tended to deſtroy his Natu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al Life;</hi> then flies to the <hi>Hebrew word Ne<g ref="char:EOLhyphen"/>bal, in Latin Nebulo, and tranſlated in the Eng<g ref="char:EOLhyphen"/>liſh Bible, vile Perſon,</hi> to excuſe the Epithet of <hi>Impudent Raſcal</hi> (the word <hi>Snakes,</hi> and
+<hi>Vipers</hi> he toucheth not upon); and from Friends telling him (as he ſaith) <hi>he deſerved to be puniſhed, he feeling great boldneſs and Cou<g ref="char:EOLhyphen"/>rage given him uttered ſome ſuch words, as Cut me in Collops, Fry me, Eat me.</hi> Thus much in <hi>p.</hi> 25. of his <hi>Further Diſcovery.</hi> Now, Friendly Reader, where was the Dove-like, Lamb-like Nature in all this, thinkeſt thou? But he deems ſuch an imputation injurious, and that <hi>G. F</hi>'s. <hi>ſaying to the rude multitude, that Beat him on his Head, Arms and Shoulders, Strike again, here are my Hands, my Head and my Cheeks;</hi> bears a propor<g ref="char:EOLhyphen"/>tion to his Caſe, as <hi>p.</hi> 28. That to turn the Cheek to the Smiter, as we are Counſeled <hi>Luke,</hi> 6.29. is Lamb-like, I confeſs; but what is this to a Man that is not ſmitten? but at moſt told, he deſreves to be puniſhed (and for that we have but his word in his own Caſe) that ſhall retort, <hi>Cut me in Collops, Fry me, Eat me.</hi> This is not a meek, quiet, yielding to a ſuffering already inflict<g ref="char:EOLhyphen"/>ed (as in the inſtance of <hi>G. F.</hi>) but a da<g ref="char:EOLhyphen"/>ring, provoking to it, and that by Un<g ref="char:EOLhyphen"/>ſavoury expreſſions, which reliſh of a diffe<g ref="char:EOLhyphen"/>rent tincture. Nor doth he more ſuc<g ref="char:EOLhyphen"/>cesfully come off, when <hi>p.</hi> 47. he denies
+<pb n="5" facs="tcp:63130:4"/> not, <hi>but he might ſay, by way of probability They ſhould hear ere long, he were either Whipt, or Impriſoned;</hi> And in the next <hi>page, owns he ſaid in a publick Meeting, on a Firſt day, that his Back Itched for their Whip,</hi> aſſigning as the reaſon, their
+<hi>interrupting him in his Chriſtian Teſtimony, and moſt extraordinari<g ref="char:EOLhyphen"/>ly, threatning him with their Magiſtratical Power</hi> (but that depends upon his ſingle ſay ſo, and wants proof). For theſe paſſages manifeſt an incenſing, provoking temper which (though covered over with the Specious pretences of Godly Zeal) <hi>like to what</hi> Lawrence
+<hi>the Martyr ſaid to the</hi> Tyrant, <hi>that cauſed to Roaſt him on a Grid-iron,</hi>
+               <note n="*" place="margin">Oh groſs Com<g ref="char:EOLhyphen"/>pariſon of the perſe<g ref="char:EOLhyphen"/>cuting Heathen Em<g ref="char:EOLhyphen"/>perour, to our Chri<g ref="char:EOLhyphen"/>ſtian abuſed Friends in
+<hi>Penſilvania:</hi> Have they not been more perſecuted by his Tongue and Pen, than he by their Laws and Proceedings?</note> 
+               <hi>to</hi> G. F. <hi>as a<g ref="char:EOLhyphen"/>bove noted; and to</hi> E. Burrough, <hi>who ſaid and writ in lines to his perſe<g ref="char:EOLhyphen"/>cutors</hi> (but when and where did they ſay) <hi>our Backs are ready for your Blows:</hi> Yet do <hi>G. K</hi>'s. words declare themſelves to proceed from a bitter Root. Now, one reaſon he gives, why he ſaid, his Back Itched for their Whip, was their interrupting him in his (ſo called) Chriſtian Teſtimony: Did <hi>Lawrence</hi> do thus, or <hi>G. F.</hi> or
+<hi>E. B.</hi> either? Let him bring <pb n="6" facs="tcp:63130:5"/> the precedent, when and where; When they were in their Perſecutors Hands, or expoſed for their Chriſtian Teſtimony, they in a Chriſtian Spirit bore it, and that Chearfully: But when did they becauſe in<g ref="char:EOLhyphen"/>terrupted in their Chriſtian Teſtimony, tell the Magiſtrates, they were not only <hi>ready (i. e.</hi> they were given up to the ſuffe<g ref="char:EOLhyphen"/>ring, and that without reluctancy) but craved it, and their Backs <hi>Itched</hi> for it; for there is a difference between a bowed mind to the will of God, that is prepared (made ready) Patiently and Meekly to Suffer what evil Men may be permitted to do, and the ſeeking it, the coveting it, and having an <hi>Itch</hi> to tempt and provoke them to it; perhaps through a deſire of Popula<g ref="char:EOLhyphen"/>rity and to encreaſe a Party. Nor will the ſucceeding inſtance of what Chriſt ſaid to <hi>Judas,</hi> help him, though it may ſhew the Fond conceit and High value he hath of his own doings, in the very Compariſon. The Lord Jeſus did not approve of the Tray<g ref="char:EOLhyphen"/>tour's Act, neither did he ſeek the Suffering, when he ſaid to
+<hi>Judas, What thou doſt, do quickly;</hi> but on the contrary, warned againſt the doing it, and prayed the Father that the Cup might paſs,
+<hi>Mat.</hi> 26. <hi>v.</hi> 24, and 39. Yet foreknowing the Bleſſed benefit and effect, it would have towards Mankind in general, for our ſakes he both embraced it, <pb n="7" facs="tcp:63130:5"/> and preſſed the doing it quickly, for he was <hi>Straitened till it was accompliſhed,</hi> Luke, 12.50. But
+<hi>G. K.</hi> can aſſign no good, that his paſſionate and daring carriage to thoſe Friends, could <hi>produce,</hi> or was <hi>propoſed</hi> thereby.</p>
+            <p>Now when he had ſaid, what he thought fit, towards his own Vindication, he goes on in the ſum 48. <hi>p.</hi> thus; <hi>I have</hi> (ſaith he) <hi>never Juſtified all the words I have ſaid to thoſe my Adverſaries</hi> (what words hath he not Juſtified? for theſe even now cited, I have made appear, he hath) <hi>but readily have granted, that it's poſſible I have at times exceeded on great provocation. But</hi> S. I. &amp;c. <hi>have far exce<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ded me in hard words,</hi> &amp;c. And a few lines after, <hi>my great Comfort is, that what<g ref="char:EOLhyphen"/>ever Human weakneſſes have attended me, as to ſome Circumſtances, which have been greater on their part, my Cauſe—is good, and with a Sincere and <g ref="char:V">Ʋ</g>pright Heart, as to the main, I have managed it, and I have peace from my gracious God in ſo doing, as well as a ſence of his Pardoning mercy, wherein I have failed in ſome particular Circumſtances, and this is more than ever any of my Adverſaries, that I know, have acknowledged, who Proud Phariſee-like, do juſtify themſelves.</hi> Now conſider, Reader, what is it to Act the Phariſee, if not to Extol himſelf and depretiate others. Sincerity <pb n="8" facs="tcp:63130:6"/> and godly Contrition, would have taught him to think more lowly of himſelf, and leſs aggravatingly concerning others: For his faint acknowledgment of human Weak<g ref="char:EOLhyphen"/>neſs is but uſhered in to ſet a fair gloſs upon his own conduct in the main, while he would inſinuate how much worſe Men his Adverſaries are, and therein hath imi<g ref="char:EOLhyphen"/>tated the ſtyle of the proud Phariſee,
+<hi>Luke</hi> 18.11. in his boaſt, <hi>That he was not as other men.</hi> But in what follows, <hi>ver.</hi> 14. he may read his own doom, <hi>viz. Every one that ex<g ref="char:EOLhyphen"/>alteth himſelf, ſhall be abaſed,</hi> and ſo will <hi>G.K.</hi> when detected not only of Self-applauſe, but alſo of Self-contradiction. For although he declares he never juſtified all he hath ſaid to his Adverſaries, but grants he hath at times exceeded; Yet (<hi>in Cauſleſs Grounds,</hi> p. 11.) he ſaith, <hi>As I have not acknowledged unto any (nor ſeen juſt cauſe ſo to do) ſo they have not proved me guilty, either in words or deeds, that the truth condemneth,</hi> &amp;c. ſo un<g ref="char:EOLhyphen"/>certain a ſound doth his Trumpet give, that either what he now ſaith, or hath ſaid before, muſt be falſe, for they are not re<g ref="char:EOLhyphen"/>concileable.</p>
+            <p>Thirdly, His want of Candour cometh alſo under my Conſideration, and that un<g ref="char:EOLhyphen"/>der two Heads.</p>
+            <p>Firſt, The Friends of <hi>Burlington,</hi> in
+<hi>Weſt-Jerſey,</hi> in their Account, entituled, <hi>The
+<pb n="9" facs="tcp:63130:6"/> preſent Caſe ſtated,</hi> relates the orderly pro<g ref="char:EOLhyphen"/>ceeding of that Meeting againſt him: He had, it ſeems, charged Friends,
+<hi>That they were met together to cloak Hereſie and Deceit, and that t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere were more Damnable Hereſies and Doctrines of Devils among the Quakers, than among any Profeſſion of Proteſtants;</hi> whereupon they firſt ſent two of their Mem<g ref="char:EOLhyphen"/>bers, <hi>S. J.</hi> and <hi>G. O.</hi> to admoniſh him; and to give him notice of their next Meeting, which followed in courſe Three Months af<g ref="char:EOLhyphen"/>ter, at
+<hi>Philadelphia.</hi> But he juſtifying his Speeches, and declining his uſual appear<g ref="char:EOLhyphen"/>ance (tho' at home) and having ſet up ſe<g ref="char:EOLhyphen"/>parate Meetings, and printed againſt Friends; they notwithſtanding (for peace ſake, and to prevent the dilateing of his Schiſm, if poſſihle) generally inclined to Adjourn their Meeting for a Fortnight lon<g ref="char:EOLhyphen"/>ger, and gave him notice thereof, the ſame Evening. At the Fortnight's end, finding him not at Home, they forbore drawing any Teſtimony againſt him for two Days lon<g ref="char:EOLhyphen"/>ger, and then ſent two of their Members, <hi>William Biles</hi> and <hi>Walter Faucet,</hi> to enquire at his Houſe of his return; but he being ſtill abſent, they gave forth their Teſtimony, yet with this Caution, that it ſhould not be publiſhed till he had had an opportunity to hear it read, and ſuch others as he approved of, as may be ſeen at large, <hi>State of the Caſe,</hi>
+               <pb n="10" facs="tcp:63130:7"/> p. 17, 18, 19. Now what anſwer doth he give to all this?
+<hi>He denies they told him the preciſe day, hour or place of their Meeting;</hi> and alledgeth, <hi>That called a Fortnight, ſome<g ref="char:EOLhyphen"/>times includes fourteen days, ſometimes fifteen or ſixteen days,</hi> p. 23. Is not this extreamly idle and ſhifting, ſhewing he was hard put to it for an excuſe? And yet they deferred giving Judgment till ſixteen days were ex<g ref="char:EOLhyphen"/>pired, waiting his return two days beyond their time; ſo that had he been at Home within his longeſt Fortnight, he had come before Judgment had been publiſhed againſt him. But he again pretends, <hi>They met ſome<g ref="char:EOLhyphen"/>times at one place, ſometimes at another; ſometimes at one part of the day, ſometimes at another:</hi> And could not he, in a Fortnight's time (and living in the Town, where the Meeting was to be held) inform himſelf, where, and at what time of the day they met? or did the Friends ſent refuſe to tell him? Well, but he hath a third <hi>Salvo, Their Paper,</hi> ſaith he,
+<hi>doth not ſo much as al<g ref="char:EOLhyphen"/>ledge, that I had any call to come to their Meet<g ref="char:EOLhyphen"/>ing:</hi> Why then, ſay I, did they take the pains to give him notice by the Friends they ſent? And yet the Paper doth (to uſe his own terms) implicitely alledge it, if not explicitely, by their delay to paſs Judgment in his abſence. And in p. 29. he ſaith, he <hi>went out of Town upon his neceſſary Occaſion,</hi> 
+               <pb n="11" facs="tcp:63130:7"/> (ſo not on Truth's account) and how nev<g ref="char:EOLunhyphen"/>ceſſary that occaſion was, himſelf beſt knows: That it was more indiſpenſible, than the attending the Meeting, he pre<g ref="char:EOLhyphen"/>tends not. Yet as mean and trifling as theſe excuſes are, he thinks they are too <hi>ſe<g ref="char:EOLhyphen"/>vere in un-miniſtring and un-chriſtianing him, without coming again and again, at leaſt twice or thrice,</hi> not conſidering, that by this time things were too far gone to be very dilato<g ref="char:EOLhyphen"/>ry, a ſeparation was begun (which if he had not begun, yet the continuation, or
+<hi>remaining ſeparate,</hi> if he will believe himſelf, <hi>Seaſonable Information,</hi> p. 16. muſt lye at his own Door) and he had printed againſt them; ſo that the relation between him and them, as
+<hi>Brethren,</hi> ceaſed, and they under no ſuch Obligation to him that was become an <hi>open Enemy.</hi> And although he expoſtu<g ref="char:EOLhyphen"/>lates, <hi>Was this like the reſtoring me in a Spirit of meekneſs;</hi> yet afterwards, p.
+29. ſays, <hi>At that time they neither owned our Judicatory, nor we theirs,</hi> which as I take to be the trueſt reaſon of his Non-appearance, ſo I cannot but obſerve, that his inſiſting on their com<g ref="char:EOLhyphen"/>ing again and again, that it might be like the reſtoring in a Spirit of Meekneſs, is no<g ref="char:EOLhyphen"/>thing but Artifice, he deſigning to make them Journies enough, and at laſt deny their Judicatory, which is far enough from
+<hi>ſincerity.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:63130:8"/>Another inſtance, ſuitable to this Head, is, that when he would wind himſelf off from being <hi>Author of ALL that Book</hi> (what part he was <hi>not</hi> Author of, he ſaith not) which gave a relation of his own and others Tryals, called, <hi>New England</hi>'s
+<hi>Spirit of Per<g ref="char:EOLhyphen"/>ſecution,</hi> &amp;c. he ſeeks to palliate the un<g ref="char:EOLhyphen"/>proved Accuſations, ſaying, <hi>Nor do I find, that the ſaid Book of the Tryal doth charge him either with Drunkenneſs or Horſe-racing, but ſimply</hi> (he ſhould have ſaid invidiouſly) <hi>as to that, narrates the Proceedings of the Court, how things did paſs there,</hi> p. 31. But beſides that this is a ſly, miſchievous way of inſi<g ref="char:EOLhyphen"/>nuating a
+<hi>ſlander,</hi> eſpecially from a <hi>nameleſs</hi> Pamphleteer (whereby the Lives and Con<g ref="char:EOLhyphen"/>verſations of the moſt Innocent may be ex<g ref="char:EOLhyphen"/>poſed to every ſcurrilous, lurking Detra<g ref="char:EOLhyphen"/>ctor) I wiſh the Reader to obſerve, that this Anonymous Author doth not narrate Proceedings impartially, as is manifeſt even from hence: For whereas that account ſug<g ref="char:EOLhyphen"/>geſts, p.
+19. that a Paper was read, ſub<g ref="char:EOLhyphen"/>ſcribed by <hi>Mary Budd,</hi> wherein ſhe ſaith, That <hi>Sarah Biddle</hi> ſaith, that <hi>William Biddle</hi> ſaith, that <hi>John Slocum</hi> ſaith, that <hi>S. J.</hi> run a Race, and was Drunk; yet when <hi>S. J.</hi> appeals to <hi>Geo. Keith</hi> in open Court, whe<g ref="char:EOLhyphen"/>ther <hi>J. S.</hi> himſelf did not tell him, <hi>the mat<g ref="char:EOLhyphen"/>ter was not true,</hi> (ſee p. 67. of <hi>The State of the Caſe,</hi> and p. 50. of
+<hi>G. K</hi>'s Anſwer to <pb n="13" facs="tcp:63130:8"/> it) that tending to
+<hi>clear</hi> in part him, whom this Book of the Tryal was deſigned to
+<hi>proſtitute,</hi> we find never a tittle of it men<g ref="char:EOLhyphen"/>tioned there. So that the Author being thus partial, and withal concealing his <hi>Name,</hi> when by
+<hi>Name</hi> he could defame o<g ref="char:EOLhyphen"/>thers, manifeſts <hi>Malice,</hi> not
+<hi>Sincerity</hi> and <hi>Candour;</hi> and that he touched on this Charge, not as <hi>driven to it,</hi> by its being in<g ref="char:EOLhyphen"/>terwoven with the matter of the Tryal, but with an <hi>intent</hi> to faſten a Reproach and Slander, leaving out what might tend to the Party's purgation in any wiſe. This great<g ref="char:EOLhyphen"/>ly
+<hi>diſcredits</hi> the whole Undertaking, and beſpeaks
+<hi>Malice.</hi>
+            </p>
+            <p>Fourthly, What <hi>G. K.</hi> offers for proof, falls ſhort of being ſo, himſelf being judge, <hi>cum ſua res agitur.</hi> For he excepts againſt <hi>S. J</hi>'s <hi>bringing only the Credit of</hi> John White, whom he calls <hi>a prejudiced Adverſary,</hi> p. 4. Again, <hi>By whom will he prove them, ſeeing he hath none but his own Party to give proof in the Caſe, which</hi> (ſaith he) <hi>as it is no Authentick proof among men,</hi> &amp;c. p. 31. And in p. 33. <hi>For no man ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ht to be accuſed of a thing, and for a ground of his Accuſation, ſay, he can prove the thing true, and yet give no proof.</hi> Alſo in p. 48. he tells <hi>S. J. he giving no proof but his bare ſay ſo, the impartial Reader will not be<g ref="char:EOLhyphen"/>lieve it.</hi> And again in his Poſtſcript, allow<g ref="char:EOLhyphen"/>ing <hi>evidences on both ſides, being confeſſedly
+<pb n="14" facs="tcp:63130:9"/> Parties, to be no proper Witneſſes,</hi> adds, <hi>Nor did I any farther make uſe of evidences of that ſort, but to make a balance againſt the evidences of their ſide.</hi> (But what <hi>balance</hi> were his Evidences to make, when he had printed ſo <hi>many Books</hi> againſt them, before they made <hi>any defence at all?</hi>) And yet that he may caſt an Odium on his Opponent and others, of all the Charges he brings in this Book, he offers no evidence, but his own, who is their Adverſary, and confeſſedly a Party indeed; and when he Cites <hi>F. Howghil,</hi> p. 33.
+<hi>J. Crook</hi> and <hi>Geo. Biſhop,</hi> p. 30. (to fa<g ref="char:EOLhyphen"/>vour his Notion of
+<hi>Baptiſm</hi>) and <hi>Edw. Bur<g ref="char:EOLhyphen"/>rough,</hi> p. 48. he is ſo far from referring to the <hi>Page,</hi> that he doth not ſo much as give the
+<hi>Title</hi> of the Treatiſes, but in general terms, F. H. <hi>hath well aſſerted in one of his printed Treatiſes againſt a Romaniſt; I have the printed Teſtimonies of</hi> J. C. <hi>and</hi> G. B. <hi>in their Treatiſes concerning Friends Principles; and</hi> G. B. <hi>hath ſaid and writ in Lines</hi> (ſo they were not Lineleſs Writings) <hi>to his Perſecutors.</hi> Now is this Man fit to reprove another, who though a
+<hi>Scholar,</hi> writes thus looſly? And when he is put to prove any matter of Fact, he tells us indeed of <hi>Witneſſes, that ſome of them are here in</hi> England, <hi>and at</hi> London, as p. 14. and 36. <hi>That an honeſt Perſon of good repute here in Town is ready to witneſs,</hi> p. 47. <hi>and an honeſt Friend,</hi> p. 50. and that to a <pb n="15" facs="tcp:63130:9"/> matter, wherein he charges high. Nay ſo far is he put to it for Evidence, that he brings in <hi>William Bradford,</hi> p. 40. as an Evi<g ref="char:EOLhyphen"/>dence in his own particular Caſe. Hath not this Man's <hi>Envy</hi> outrun his
+<hi>Judgment,</hi> and drawn <hi>Paul</hi>'s reproof upon him, who ſaid,
+<hi>Thou therefore which teacheſt another, teacheſt thou not thy ſelf,</hi> Rom. 2.21. But if he will not ſee himſelf, I hope the Judicious will ſee him.</p>
+            <p>Fifthly, But that which renders the Man yet more mean and
+<hi>baſe,</hi> is that he thus treats (and vaunts over) an <hi>abſent</hi> Per<g ref="char:EOLhyphen"/>ſon, who upon reading <hi>G. K</hi>'s Advertiſe<g ref="char:EOLhyphen"/>ment, wherein he threatned a Reply, wrote a Letter to him, (which a Friend left at his Houſe for him) preſſing <hi>G. K.</hi> to haſten his, that he might have an opportu<g ref="char:EOLhyphen"/>nity to Rejoin, before he went off the Coaſt. Now ſurely any
+<hi>worthy</hi> Antagoniſt, if he had protracted his Work, till the other was too far gone, than to reach him; yet at leaſt would have been ſparing in offering any thing to blemiſh his Reputation, as a Man, or as a Chriſtian, without very <hi>full, clear</hi> and <hi>undeniable</hi> Evidence, ſuch as might beſpeak its Credit, and not ſuch, as in his own Caſe, he rejecteth; and alſo, in his Re<g ref="char:EOLhyphen"/>ply, have taken <hi>ſome notice</hi> of the offer made; if this occaſion, to detract him, had not been rather <hi>induſtriouſly embraced,</hi> than <hi>caſual.</hi>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:63130:10"/>Sixthly, If it be not matter of Flouriſh, and to ſet off a bad Cauſe, why ſhould he inſinuate, that he hath Evidence ſo near as in <hi>London, <hi>many</hi> Witneſſes,</hi> p. 14.
+<hi>ſome in</hi> London, <hi>ready to witneſs,</hi> p. 36. <hi>An honeſt Perſon of good repute here in Town,</hi> p. 47. <hi>An honeſt Friend here in Town,</hi> p. 50. and pro<g ref="char:EOLhyphen"/>duce neither <hi>Teſtimonial</hi> from them, nor ſo much as <hi>name</hi> them, that others might be Judges of their
+<hi>Veracity,</hi> as well as himſelf? But the way he hath taken to ſlur another, ſlurs himſelf, and renders his own Charge the more ſuſpected? And I may tell him, in his own words, p. 20. <hi>If it be enough to make a man guilty by the ſingle Evidence of a preju<g ref="char:EOLhyphen"/>diced Adverſary, he hath hit the mark; but if otherwiſe, he only ſheweth his Enmity and Pre<g ref="char:EOLhyphen"/>judice.</hi>
+            </p>
+            <p>Theſe ſhort Touches, reſpecting <hi>G. K</hi>'s partial way of managing Controverſie, the ungovernedneſs of his Spirit, and his unfair way of treating his Opponent by obtruding as Evidence, what he diſallows from others, (and that at a time, when he could not de<g ref="char:EOLhyphen"/>fend himſelf, by reaſon of his diſtance) as they are matters deducible from his late printed Books, without dependance upon Evidence elſewhere, ſo are they left with the Reader, as <hi>Introductory</hi> to the following Certificates; my aim herein being to vindi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate
+<pb n="17" facs="tcp:63130:10"/> the Traduced, undeceive the Deceived, and lay open the Deceiver, and not to trace him through the ſeveral Parts of his Book, which affords matter enough, but ſhall re<g ref="char:EOLhyphen"/>fer that to the Friends more immediately concerned, to do it, when <hi>G. K</hi>'s Anſwer ſhall come to their Hands; and ſo conclude this <hi>Epiſtle,</hi> who am</p>
+            <closer>
+               <signed>Thy Friend, <hi>J. P.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="certificates">
+            <pb n="18" facs="tcp:63130:11"/>
+            <head>
+               <hi>Certain Certificates received from</hi> Ame<g ref="char:EOLhyphen"/>rica,
+<hi>&amp;c.</hi>
+            </head>
+            <div type="certificate">
+               <opener>
+                  <dateline>From our Monthly Meeting, held at our Meeting-houſe, in
+<hi>Cheſterfield,</hi> in the Province of <hi>Weſt-Jerſey,</hi> 
+                     <date>the Second of the Sixth Month, <hi>1694.</hi>
+                     </date>
+                  </dateline>
+                  <salute>To all our Faithful Friends and Brethren, that live and abide in the Truth, Greeting.</salute>
+               </opener>
+               <p>HAving ſeen a Paper printed, wherein we find many black and dark Charges againſt many Faithful Friends of known In<g ref="char:EOLhyphen"/>tegrity in theſe Parts, and in particular, againſt our Well-beloved Friend and Bro<g ref="char:EOLhyphen"/>ther
+<hi>Samuel Jennings,</hi> therein being Charg<g ref="char:EOLhyphen"/>ed with ſuch Enormities, as Drunkenneſs, running Horſe-races and Perſecution, <hi>&amp;c.</hi> which we fully believe, are altogether falſe, and unjuſtly laid to his Charge; ariſing from the Spirit of Envy and Darkneſs, and to be judged by the Light, that diſcovers from whence it comes; ſeeing many of us have known him from the firſt of his coming into theſe Parts, and we know thoſe things <pb n="19" facs="tcp:63130:11"/> wherewith he is charged, were always an abhorrence to him. As to his Converſati<g ref="char:EOLhyphen"/>on amongſt us, we can ſincerely teſtifie, it was coupled with the Fear of God. He was a Man of great Tenderneſs and Love to all the Faithful. He was Juſt to all Men; and as to his Teſtimony, we had always good unity with it, and have been often re<g ref="char:EOLhyphen"/>freſhed hy him. An Inſtrument in the Hand of the Lord for good unto many, the Lord hath made him in theſe Parts of the World; and it is our earneſt Deſires to the Lord, that he may be preſerved in the ſame Love and Life, in which he left us: And when his Service for the Lord, and his Truth is over with you for the preſent; our Prayers and Supplications are to the Lord for his ſafe Return unto us again, <hi>Amen.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>Signed by order, in behalf of the Meeting; by me</hi> Mahlon Stacey.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <pb n="20" facs="tcp:63130:12"/>
+               <head>From our Monthly Meeting held at the Houſe of <hi>Thomas Gardner,</hi> in <hi>Bur<g ref="char:EOLhyphen"/>lington</hi> in <hi>Weſt New-Jerſey,</hi> the 6th of the 6th Month, <hi>1694.</hi>
+               </head>
+               <p>TO our dear Friends and Brethren in the bleſſed Truth of our Lord Jeſus Chriſt, whoſe habitation and ſtanding is in the ſame, according to the Manifeſtation of it, wherein God, in the Riches of his Love, firſt viſited us, to our great Satisfaction and Conſolation; being by it brought into a bleſſed and ſweet fellowſhip, dear and tender love one to another, in which (not<g ref="char:EOLhyphen"/>withſtanding all the Subtil workings of the Enemy, the Accuſer of the brethren) we can ſay, to the Praiſe and Honour of the Lord, a little remnant is ſtill preſerved, feeling the good preſence of our God, often to attend us, and refreſh us, in our waiting upon him: And in this we dearly Salute you, deſiring your welfare, preſer<g ref="char:EOLhyphen"/>vation and proſperity, every way as our own.</p>
+               <p>
+                  <pb n="21" facs="tcp:63130:12"/>Now dear Friends, the writing of theſe few lines to you at this time, is occaſioned,<note n="*" place="margin">Who ſhould ſpread this report but G. <hi>K's</hi> party here?</note> by a
+<hi>report</hi> we hear, that our worthy Friend <hi>Samuel Jennings,</hi> now with you, is much Slighted by reaſon of a Book,<note n="*" place="margin">We ſee whom theſe Friends repute, as the <hi>Authors.</hi>
+                  </note> put forth by
+<hi>Peter Boſs, George Keith, Thomas Budd,</hi> and <hi>William Bradford,</hi> Printed in the Year, 1693 called <hi>New England</hi>'s
+<hi>Spi<g ref="char:EOLhyphen"/>rit of perſecution,</hi> &amp;c. Contrived and Pro<g ref="char:EOLhyphen"/>mulgated chiefly, what in them lies, to the defamation of our ſaid Friend S. J. And be<g ref="char:EOLhyphen"/>cauſe he is a Man, who for ſeveral Years paſt, hath lived amongſt us, both as a
+<hi>Mi<g ref="char:EOLhyphen"/>niſter</hi> and a <hi>Magiſtrate;</hi> we are free and willing, to ſignifie unto you ſomething of our knowledge of him in both Capacities: As to his behaviour, and firſt, as to his Ser<g ref="char:EOLhyphen"/>vice in the Church of God. He was a Man very Zealous for good order, and where any that profeſſed the Truth, had walked diſorderly, his cenſures of them were no other, then were very needful; for his endeavour hath been to keep Truth from being Reproached; not at all ſeeking <hi>Lordſhip</hi> or <hi>Superiority,</hi> as his Adverſaries would inſinuate. And as to his Teſtimony, it was Sound and Savoury, aſſiſted by the good Power and Preſence of the Lord there<g ref="char:EOLhyphen"/>in,
+<pb n="22" facs="tcp:63130:13"/> to the day of his departure from us; and we hope you find it ſo with him ſtill, we pray God preſerve him.</p>
+               <p>And Secondly, as a <hi>Magiſtrate,</hi> we be<g ref="char:EOLhyphen"/>lieve he managed the Truſt repoſed in him, according to the beſt of his knowledge, and was no way lofty, or more high-mind<g ref="char:EOLhyphen"/>ed then at other times. We could give ſome inſtances of it, as his Labouring with his Servants at Plough, Cart, Splitting-logs, and other ſuch like ſervile Employ<g ref="char:EOLhyphen"/>ments, even at the ſame time, when he was in the place of <hi>Governour,</hi> and many other things, too tedious here to relate. And as for Fines and perquiſites, we think he was not, neither had cauſe to be eleva<g ref="char:EOLhyphen"/>ted by reaſon of them; neither did he ſeek them, and if any wrong was done, <hi>it was his own eſtate that Suffered.</hi> Now as to the Book in general, and ſome of the Witneſ<g ref="char:EOLhyphen"/>ſes that live amongſt us in p rticular: As to that part of it, that relates to the Trial at <hi>Philadelphia,</hi> we ſhall ſay little, believing that you will have a large ac<g ref="char:EOLhyphen"/>count thereof, from thoſe that know more of it then we do. Only, we have ſeen ſo much of <hi>George Keith</hi>'s <hi>inſolent and provoking beha<g ref="char:EOLhyphen"/>viour</hi> towards Friends here away, that we believe his carriage towards Friends there, as Magiſtrates, was
+<hi>intolerable,</hi> and what pro<g ref="char:EOLhyphen"/>ceedings were againſt them there, are
+<pb n="23" facs="tcp:63130:13"/> aggravated beyond the bounds of Truth, with a deſign chiefly, to defame our Friend <hi>Samuel Jennings,</hi> as well as others.</p>
+               <p>Now to be more particular: And firſt concerning this Man
+<hi>Peter Boſs,</hi> that makes ſuch a great Noiſe, with his Queries, and Witneſſes to prove them; we ſhall ſay a little to what comes within our knowledge. Firſt, we believe that prejudice hath entred him againſt S. J. ever ſince that time, the Meeting had to do with him, and gave Judgment againſt him, concerning a diffe<g ref="char:EOLhyphen"/>rence he had with his Neighbour, and that ever ſince he hath been gathering up, and keeping, all that any could or would ſay againſt him, and if he knew of any, that had found the leaſt diſlike with S. J. he would Query with them, flatter, per<g ref="char:EOLhyphen"/>ſwade,
+<hi>&amp;c.</hi> till he had made up thoſe bundles of Stuff in the Book; and if Friends or ſober People, did but know, how re<g ref="char:EOLhyphen"/>proachful his Life and Converſation has been amongſt us, and how Friends have been exerciſed and concerned with him, upon the account of his Servant Maid, for his rude and wicked Carriage towards her, and becauſe he could not obtain his will, was cruel to her: Now though it never was our manner, nor hath been ſince the Separation, to expoſe them, as they have our Friends to the publick view of the <pb n="24" facs="tcp:63130:14"/> World; yet we think fit to give this ac<g ref="char:EOLhyphen"/>count as aforeſaid, and it is ſuch matter of Fact, as he dare not deny it; and not<g ref="char:EOLhyphen"/>withſtanding all the endeavour of Friends, to keep it from the publick knowledg of the World, that ſo, neither the Truth, nor the Man might be reproached, yet, be<g ref="char:EOLhyphen"/>hold this is the Man, thought a fit Inſtru<g ref="char:EOLhyphen"/>ment to appear in Company with <hi>G. K. T. B.</hi> &amp;c. in the Title <hi>page</hi> of the Book, to diſgrace faithful Friends to the World. <hi>Thomas Budd,</hi> can, if he will, witneſs to the truth of this relation.</p>
+               <p>Now we are willing to give ſome ac<g ref="char:EOLhyphen"/>count, of the Evidence he produces to make proof of his Queries. Firſt, as to <hi>Samuel Jennings</hi>'s Riding a Race with <hi>John Slocum,</hi> you will have an account by a particu<g ref="char:EOLhyphen"/>lar Certificate, of the falſehood of it. Secondly, as to the Query of his being drunk on board of <hi>Joſeph Bryers</hi> Ship, the falſehood of that will appear, by a Cer<g ref="char:EOLhyphen"/>tificate under the Hands of ſeveral Friends, and others that were then in his Compa<g ref="char:EOLhyphen"/>ny. The Third Query is proved a lie, by Certificate from the Perſon concerned. The Fourth Query we need not ſay any more to, than the Letter S. <hi>Jennings</hi> at that time ſent to
+<hi>Elias Farr,</hi> mentions to clear it: On<g ref="char:EOLhyphen"/>ly that we add, that that Witneſs, has for many Years, to our knowledge, been a <pb n="25" facs="tcp:63130:14"/> prejudiced Perſon, and declared that he hath not had unity with the Quakers, ſince he came into this Country, but hath ſince fallen in with our Adverſaries, to the diſ<g ref="char:EOLhyphen"/>grace of Friends, both in his <hi>Almanacks,</hi> and as well other wayes. The Fifth: We are ſen<g ref="char:EOLhyphen"/>ſible that there was a difference, between S. <hi>Jennings</hi> and <hi>John Skeen,</hi> about a Road
+<hi>John Skeen</hi> had only upon Sufferance to his Houſe, through <hi>Samuel Jennings</hi>'s Corn-field, and the Gates being oftsn left open, and Cattel came in, and did much damage to the Corn, <hi>S. Jennings</hi> denied them of coming any more that way; upon which ſome dif<g ref="char:EOLhyphen"/>ference aroſe on both ſides, but were quick<g ref="char:EOLhyphen"/>ly ended, and they were good Friends a<g ref="char:EOLhyphen"/>gain, and we do believe that <hi>John Skeen,</hi> would have ſcorned ſuch a ſmall thing ſhould have been publiſhed. But it is their great miſtake (at beſt) to ſay, they never com<g ref="char:EOLhyphen"/>plained to the Magiſtrate, or took a courſe in Law about it; for we have the warrant yet by us, to prove the contrary, but Friends made up this alſo. The Sixth Query is ſuch a piece of nonſence, without any pretence of witneſs, time or place, we can ſay little to it, but leave amongſt the reſt of the rub<g ref="char:EOLhyphen"/>biſh. We muſt leave the Seventh Query there too, only with this mark upon them, that we believe they are two lies. And as to his witneſs <hi>Henry Beck,</hi> his diſcredit ſtands upon record in our Court Book, where the <pb n="26" facs="tcp:63130:15"/> Magiſtrates have dealt with him, for getting a young Woman with Child. And this <hi>John Smith,</hi> was under the like Circumſtances, be<g ref="char:EOLhyphen"/>ſides his baſe carriage to his Maſter and Fami<g ref="char:EOLhyphen"/>ly, by ill examples in waſting and purloyning his Maſter's goods. And as to <hi>John Bainbridge,</hi> tho he is now a great Man amongſt them, as we hear, appears in publick in their Meetings; yet he hath been known, to be a <hi>Drunkard, Fighter, Quarreler,</hi> and ſo rude and wicked to his aged Mother, calling her <hi>Old Jezabel,</hi> and other ſuch behaviour, which cauſed her to leave the Country, and come back to <hi>England.</hi>
+               </p>
+               <p>And as for <hi>James Silver,</hi> we have only this to ſay, that he ſaid it was extorted from him, never thinking it ſhould be put in Print.</p>
+               <p>Truly, Dear Friends, this ſort of work is very unpleaſant to us, and looks ſo much like our Adverſaries doings, that were we not hereunto conſtrained, for the Vindica<g ref="char:EOLhyphen"/>tion of our traduced Friend <hi>Samuel Jennings,</hi> whoſe care for promoting the Truth, and ſervice in the Church, is at this time freſh in our remembrance, we ſhould not be thus concerned.</p>
+               <closer>
+                  <signed>
+                     <hi>Signed by Order and in Behalf of the Meeting; by me</hi> James Marſhall.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <pb n="27" facs="tcp:63130:15"/>
+               <head>
+                  <hi>Burlington,</hi> the 9th of the 6th Month,
+<hi>1694.</hi>
+               </head>
+               <p>WHereas we whoſe Names are here un<g ref="char:EOLhyphen"/>der-written, have ſeen a Book pub<g ref="char:EOLhyphen"/>liſhed by <hi>Peter Boſs, George Keith, &amp;c.</hi> En<g ref="char:EOLhyphen"/>tituled,
+<hi>New England</hi>'s <hi>Spirit of Perſecution, &amp;c.</hi> and in the ſaid Book certain Queries, by way of Reflection on our dear Friend
+<hi>Sa<g ref="char:EOLhyphen"/>muel Jennings;</hi> the firſt, <hi>Whether</hi> S. J. <hi>did Ride a Race with</hi> John Slocum, <hi>&amp;c?</hi>
+               </p>
+               <p>This may Certifie all to whom this ſhall come towards clearing Truth, and our Friend <hi>Samuel Jennings,</hi> that we have ſpo<g ref="char:EOLhyphen"/>ken with the ſaid <hi>John Slocum,</hi> and he po<g ref="char:EOLhyphen"/>ſitively affirms, that he never rode a Race, or Wager with <hi>Samuel Jennings;</hi> and there is no Truth in the ſaid Query: And further the ſaid <hi>John Slocum</hi> did tell us, that
+<hi>George Keith</hi> went to enquire of him, if that <hi>S. J.</hi> and he did not ride a Race, and <hi>John Slocum</hi> told him <hi>no.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Iſaac Marriot,</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Grubb,</hi>
+                        </item>
+                        <item>
+                           <hi>Joyce Marriot.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <pb n="28" facs="tcp:63130:16"/>
+               <p>WHereas a Book Publiſhed and Printed in <hi>Penſylvania</hi> in the Year 1693. of the Trial of <hi>Peter Boſs, George Keith, Thomas Budd,</hi> and <hi>William Bradford,</hi> wherein ſeve<g ref="char:EOLhyphen"/>ral Queries are propoſed concerning <hi>Samuel Jennings,</hi> implicitely intimating, and charg<g ref="char:EOLhyphen"/>ing him, with ſeveral Notorious Tranſ<g ref="char:EOLhyphen"/>greſſions and Miſdemeanors. We, whoſe Names are here under-written, do as to the Second Query, <hi>viz.</hi> Whether <hi>Samuel Jennings</hi> was drunk on Board
+<hi>Joſeph Bryer</hi>'s Ship at <hi>Burlington,</hi> declare, and poſitively aver, that he the ſaid <hi>Samuel Jennings,</hi> was <hi>not in the leaſt meaſure diſordered in Drink at that time,</hi> nor at any other time to our know<g ref="char:EOLhyphen"/>ledge. Dated this firſt Day of the ſixth Month, 1694.</p>
+               <closer>
+                  <signed>We the Subſcribers being then and there preſent.
+<list>
+                        <item>
+                           <hi>John Tatham,</hi>
+                        </item>
+                        <item>
+                           <hi>Elizabeth Tatham,</hi>
+                        </item>
+                        <item>
+                           <hi>William Biddle,</hi>
+                        </item>
+                        <item>
+                           <hi>Francis Davenport,</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Baſnett,</hi>
+                        </item>
+                        <item>
+                           <hi>Elizabeth Baſnett.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <pb n="29" facs="tcp:63130:16"/>
+               <p>WHereas <hi>Peter Boſs</hi> in the Third Que<g ref="char:EOLhyphen"/>ry in the Book, makes uſe of my Name about a Survey of Land; I do certifie all Friends, and others concerned, that it is nothing but a very Lie inſinuated by way of Query: For I do utterly deny that I had ever begun to Survey, or had any Right there to Land. As witneſs my Hand,</p>
+               <closer>
+                  <signed>
+                     <hi>John Antrum.</hi> his mark</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>
+                     <hi>Friend</hi> Elias Farr,</salute>
+               </opener>
+               <p>BY thy Letter, I perceive thy Trouble, concerning my late Sufferings, and withal thy Judgment upon it, which I think is full forward enough; however my Anſwer to thee is, that I have Surveyed all the un<g ref="char:EOLhyphen"/>ſurveyed Lands in that place, and if this thou calleſt <hi>Matthews</hi> his Meadow be ſuch, then I have Surveyed it, and not otherways. Thou judgeſt thou canſt prove it to be Surveyed, and Recorded ſome Years ago to <hi>Matthews,</hi> 
+                  <pb n="30" facs="tcp:63130:17"/> which if thou canſt do, it ends the diſpute, but I had <hi>Daniel Leads</hi> with me, who Sur<g ref="char:EOLhyphen"/>veyed
+<hi>Matthews</hi>'s Land, who would give me no account what number of Acres, or what courſe they ſteered, in any Surveyings of <hi>Matthews</hi> there; but ſays in ſome part of it, they marked a few Trees, which I de<g ref="char:EOLhyphen"/>ſired him to ſhew me, but neither he, nor I, could find them: So if this were a Sur<g ref="char:EOLhyphen"/>vey, I ſhall leave to be tried and judged, and if it be none, I would be informed what I have done, that would be abominated a<g ref="char:EOLhyphen"/>mongſt ſober Heathens, or that might not be done by as good a Chriſtian as <hi>Elias Farr.</hi> So that my Anſwer and Reſolution is, that as I have Surveyed all that vacant Land, which on all ſides incloſeth the Meadow a<g ref="char:EOLhyphen"/>foreſaid, to hold it until ſuch time I can re<g ref="char:EOLhyphen"/>ceive a better account of any other Title to it. For if
+<hi>Matthews</hi> have any, how much? For all was never pretended to; and if not all, but ſome, then how bounded, and how to be found, that the remainder may be known. Theſe things I expect, and reſolve to be ſatisfied in; and if it appear the Land I have taken, or any part of it, were Sur<g ref="char:EOLhyphen"/>veyed to
+<hi>Matthews,</hi> I will give thee no trou<g ref="char:EOLhyphen"/>ble to recover it, but will readily reſign it; but if not, know I will not be frighted out of it, by being told of <hi>Matthews</hi> his great Eſtate and Intereſt: For I hope I have
+<pb n="31" facs="tcp:63130:17"/> enough to defend a Juſt Cauſe, which ends this. From thy Friend,</p>
+               <closer>
+                  <signed>Samuel Jennings.</signed> 
+               </closer>
+               <postscript>
+                  <p>I am going juſt now a Journey, and ſhall ſcarce return, in leſs than a Week, in the mean while provide thy ſelf, and at my re<g ref="char:EOLhyphen"/>turn, I ſhall not refuſe to meet thee in any way of a deciſion.</p>
+               </postscript>
+            </div>
+            <div type="certificate">
+               <p>I <hi>Benjamin More</hi> do teſtifie, that what is mentioned in the Book, about <hi>taking me by the Throat,</hi> is as great a Lie as ever was Printed: But I do ſay he was as good a Ma<g ref="char:EOLhyphen"/>ſter both to me and other Servants, as I would deſire to ſerve: As witneſs my Hand, (I ſerved him three Years).</p>
+               <closer>
+                  <signed>Benjamin More.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <p>I <hi>Thomas Brian</hi> having ſeen an Accuſation in a Book, that my Maſter <hi>Jennings</hi> knocked down, and broke his Cane, on one
+<pb n="32" facs="tcp:63130:18"/> of his Servants. As to being knocked down, it is a very Lie, but it is true the Cane was broken, but not by unmerciful Blows, for they were no more than I then deſerved. And as for his dealings with me, it was al<g ref="char:EOLhyphen"/>ways as any honeſt Maſter ought to do to his Servants. I did ſerve him Six Years, and have known him Fourteen Years, and never ſaw him any ways
+<hi>diſguiſed in Drink, or run Races.</hi> As witneſs my Hand,</p>
+               <closer>
+                  <signed>Thomas Briant.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <head>
+                  <hi>Weſt-Jerſey,</hi> the third of the ſixth Month,
+<hi>1694.</hi>
+               </head>
+               <opener>
+                  <salute>To all Friends and People, to whoſe Hands this may come.</salute>
+               </opener>
+               <p>I Having heard and ſeen many dark and black Charges, againſt my dear Friend, and former Maſter, <hi>Samuel Jennings,</hi> whom the Lord hath made Inſtrumental in his Hand, for the good of many in this his powerful Day: And notwithſtanding this his Service, yet he hath not eſcaped the re<g ref="char:EOLhyphen"/>viling of wicked and ungodly Men. And I living with him about half a Year, am willing <pb n="33" facs="tcp:63130:18"/> to ſay ſomething, as I did know him, and in particular concerning thoſe Reflections caſt upon him, concerning his hard uſage of his Servants; I have from time to time, and all times, as occaſion hath preſented, and do at this time freely ſpeak, and from the bottom of my Heart believe, that he was a real and a very honeſt-minded Man towards his Ser<g ref="char:EOLhyphen"/>vants. I may omit to ſpeak of divers Pri<g ref="char:EOLhyphen"/>vileges, which his Servants had, which I think few in the Country had the like, to ſpeak of the Care which I have known him take for his Servants, expreſſing that the deſire of his Heart was; however the Lot of him or his Children might be, as to the outward, that he might have wherewithal, to do juſtly by his Servants; who were wil<g ref="char:EOLhyphen"/>ling to come with him, and put their Truſt in him. Truly it was manifeſt both in Food and Raiment, and as far as I did know, in moderation in Labour; and I being an Eye and Ear-witneſs to theſe things, and ſeeing the whole aim and drift, of the Backſliders in our day, (as was their practice in former Ages) to beſpatter, defame and belie the true Followers of Chriſt, notwithſtanding their great talk of him; this I was willing to ſignifie, and do reſt and remain your lov<g ref="char:EOLhyphen"/>ing Friend,</p>
+               <closer>
+                  <signed>
+                     <hi>John Willsford,</hi> Junior.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <pb n="34" facs="tcp:63130:19"/>
+               <head>
+                  <hi>Burlington,</hi> the fourth of the ſixth Month,
+<hi>1694.</hi>
+               </head>
+               <p>THeſe are to certifie all whom it may concern, that I
+<hi>Benjamin More</hi> Ju<g ref="char:EOLhyphen"/>nior, having been a Servant to <hi>Samuel Jen<g ref="char:EOLhyphen"/>nings</hi> for Seven Years together, do teſtifie, that he was ſo good a Maſter to me, as that if I had a Service to perform again, I ſhould chuſe him for my Maſter, as ſoon as any one I know: But I muſt acknowledge, that my ſelf, and other Servants, that were young Lads like my ſelf, were quarrelſome, and oftentimes diſorderly, for which he gave us moderate Correction. But when it was diſcovered, and made appear that young
+<hi>Silver</hi> had ſtolen Oats, Powder, Shot, Wooll and other things, as alſo <hi>John Smith</hi> for Stealing Eggs, <hi>&amp;c.</hi> to bring to his Wife; I cannot remember he gave them one blow for that. As witneſs my Hand,</p>
+               <closer>
+                  <signed>
+                     <hi>Benjamin w More.</hi> his mark.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <pb facs="tcp:63130:19"/>
+               <head>
+                  <hi>Philadelphia,</hi> the eighth of the ſixth Month,
+<hi>1694.</hi>
+               </head>
+               <p>I Having ſeen and heard many Aſperſions, that are caſt upon my Friend <hi>Samuel Jennings,</hi> the which I am well aſſured, and do certainly know, that they are caſt upon him, from the Enmity and Bitterneſs, of the Spirits of ſuch, who have not ſeeked the Peace of
+<hi>Sion,</hi> but rather have laboured, as much as in them lyes, for to make Breaches within her Walls, and who have worſe than in the Caſe of
+<hi>Ham,</hi> as much as in them lyes, not only uncovered Nakedneſs, but have en<g ref="char:EOLhyphen"/>deavoured, to make that ſhow like Naked<g ref="char:EOLhyphen"/>neſs, where there was none; whoſe Labour and Works will be rewarded according to their own doings, if that they repent not, which that they may, hath been often the Deſire of my Heart.</p>
+               <p>And having ſeen the Teſtimonies of ſeve<g ref="char:EOLhyphen"/>ral of my Friends, whom I well know, and whoſe Teſtimonies I believe for to be true concerning him, and having had ſome cer<g ref="char:EOLhyphen"/>tain knowledge of him my ſelf, and been ac<g ref="char:EOLhyphen"/>quainted with him, almoſt ever ſince he came hither, being here before him, and having <pb n="36" facs="tcp:63130:20"/> been at many Meetings with him, upon the account of Worſhipping, as alſo at Monthly Meetings: In both of which, I can freely ſay, that I never had, that I know of, the leaſt againſt his Teſtimony, but was well ſatisfied with it, and comforted by it; and as to his Carriage and Management in Monthly Meetings, I never ſaw but that it was according to Truth, and I did always believe and know, that he was ſerviceable to the Meeting, to the which he belonged upon that account. And as to other Con<g ref="char:EOLhyphen"/>cerns, I have ſeveral times been concerned with him, in outward Affairs, and I always found him, to be wiſe to manage an outward Concern; and when he hath been grated up<g ref="char:EOLhyphen"/>on, I can ſingly ſay, both in things Spiritual and Temporal, that I never ſaw, but that he behaved himſelf well. And this I freely ſig<g ref="char:EOLhyphen"/>nifie for Truth's ſake, and to eaſe my Friend, of thoſe Aſperſions.</p>
+               <closer>
+                  <signed>William Biles.</signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <pb n="37" facs="tcp:63130:20"/>
+               <head>POSTSCRIPT.</head>
+               <p>THeſe foregoing <hi>Certificates,</hi> rela<g ref="char:EOLhyphen"/>ting to ſome of the <hi>Charges</hi> exhi<g ref="char:EOLhyphen"/>bited againſt <hi>S. J.</hi> I leave with the Candid, who is willing indifferently to hear, what may be offered on both ſides, and is not prejudicate; withal adviſing him, that by a Letter I ſaw which came with them, more were behind, which could not be got ready to be ſent by that Ship. Yet one ob<g ref="char:EOLhyphen"/>ſervation (occurring from a Clauſe in that ſigned by the Monthly Meet<g ref="char:EOLhyphen"/>ing at <hi>Burlington,</hi> mentioning <hi>G. K</hi>'s <hi>inſolent and provoking Behaviour</hi> to Friends there, and their Belief that his Carriage to the Magiſtrates in <hi>Pen<g ref="char:EOLhyphen"/>ſylvania</hi> was <hi>intolerable</hi>) I think not improper to bring in here, from the
+<pb facs="tcp:63130:21"/> Analogy or Proportion the one hath to the other. For in p. 47.
+<hi>G. K.</hi> diſcanting upon <hi>S. J</hi>'s <hi>Cruelty</hi> (as he terms it) <hi>to a Boy and his Maſter, cauſing the Boy to be whipt with Thirty Five Laſhes on his Naked Body, with a Horſe-whip, and the Maſter to be put in the Stocks,</hi> he aſſigns the provocation to be but
+<hi>ſmall,</hi> viz. <hi>a <hi>ſmall</hi> default of a poor Boy, that did throw a little Dirt or Earth at a Conſtable, and the Maſter for calling the ſaid</hi> S. J. (who was then Governour) <hi>Prick-Louſe Taylor.</hi> Now is not the alleviating or extenuating ſuch Offences, an indirect abetting them, which ſhews how light<g ref="char:EOLhyphen"/>ly he reſents an Affront upon Magi<g ref="char:EOLhyphen"/>ſtracy, while the Perſons are ſuch as he hath a <hi>pique</hi> againſt, and it gives the greater ground to ſuſpect, that his late Actions have been
+<hi>correſpon<g ref="char:EOLhyphen"/>dent.</hi> But is it indeed a ſmall default to fling Dirt at a Conſtable (eſpeci<g ref="char:EOLhyphen"/>ally when in the Execution of his Of<g ref="char:EOLhyphen"/>fice, and to ſuppreſs a Tumult, as this is ſaid to be) or to call a Go<g ref="char:EOLhyphen"/>vernour,
+<pb facs="tcp:63130:21"/> 
+                  <hi>Prick-Louſe Taylor?</hi> Doth the Principle he pretends to, teach any ſuch thing? Or hath it been the Cuſtom of Friends here or elſewhere, thus to demean themſelves, towards thoſe that were ſet in Authority over them, whatever their <hi>Extract</hi> might have been? Not that I count it a diſgrace to be a <hi>Taylor,</hi> but the word
+<hi>Prick-Louſe</hi> is a by-name, and word of Scorn and Contempt, which who<g ref="char:EOLhyphen"/>ever will preſume to give to a <hi>Go<g ref="char:EOLhyphen"/>vernour,</hi> muſt needs be uneaſie to the <hi>Government.</hi> As for the Severity of the Puniſhment, he offers no evidence but his own, though he tells of an Honeſt Perſon, of good Report in <hi>London,</hi> but not producing him, his Allegation deſerves no Credit. As to that part of it, which he would fa<g ref="char:EOLhyphen"/>ſten on <hi>S. J.</hi> that alſo wants Expla<g ref="char:EOLhyphen"/>nation, <hi>viz.</hi> That it is the Cuſtom there (for it is not here) for the Governour to <hi>award the Correction,</hi> which belongs to the Office of a <hi>Ju<g ref="char:EOLhyphen"/>ſtice of Peace.</hi> However this deducti<g ref="char:EOLhyphen"/>on <pb n="40" facs="tcp:63130:22"/> ſeems natural, that things were at an ill paſs there, when ſuch Inſolen<g ref="char:EOLhyphen"/>cies could be offered to Magiſtracy; and the Offenders ought to be made Exemplary, to prevent a growing E<g ref="char:EOLhyphen"/>vil: But
+<hi>G. K.</hi> doth not commend his own Conduct, in being Patron to the Abuſe, by making light of it, and yet ſo virulently attaching them, by whom thoſe Malignants ſuffered, as if the Puniſhment were <hi>great,</hi> the default <hi>ſmall;</hi> nor doth he leſs than betray an implacable Spirit againſt <hi>S. J.</hi> to rake up matter of Accuſa<g ref="char:EOLhyphen"/>tion againſt him, of ſo long ſtanding, as that muſt needs be, who was in <hi>England</hi> in the Year 1684. and hath not ſince been Governour there. This makes good the ſaying of the Wiſe Man, with which I ſhall cloſe, <hi>viz. Wrath is cruel, and anger is outragious; but who ſhall ſtand before Envy?</hi> Prov.
+27.4.</p>
+               <p>And to theſe Certificates received from <hi>America,</hi> let me add one more, <pb n="41" facs="tcp:63130:22"/> received from a Friend in
+<hi>London,</hi> whom I will name, which is more than he doth: But what he wants in <hi>Evidence,</hi> he makes up in <hi>Charge,</hi> alledging, p. 50. That S. J. <hi>moſt cru<g ref="char:EOLhyphen"/>elly Whipt his Maid in Bed, with a Horſe-whip,</hi> and a few Lines after re<g ref="char:EOLhyphen"/>preſents the Act as <hi>moſt unmerciful, and obſcene.</hi> The like Charge was ex<g ref="char:EOLhyphen"/>hibited, p. 21. of <hi>New England</hi>'s <hi>Spi<g ref="char:EOLhyphen"/>rit of Perſecution, &amp;c. viz.</hi> That he
+<hi>inhumanely Whipt her Naked in her Bed, the manner and circumſtances of which</hi> (ſaith that <hi>Nameleſs</hi> Libeller) <hi>I here omit for Modeſty's ſake.</hi> The truth of this, I have endeavoured to ſatisfie my ſelf in; and as I underſtand that what was done, was about Twelve Years ago, and nothing ſo as repre<g ref="char:EOLhyphen"/>ſented, either <hi>Cruel</hi> or
+<hi>Obſcene,</hi> but the very having a Whip in his Hand,
+<hi>accidental,</hi> he being juſt ready to take Horſe, and had done, had not the Child's crying prevented; ſo I pre<g ref="char:EOLhyphen"/>ſume that what follows will both de<g ref="char:EOLhyphen"/>tect the Aſperſer's Malice, clear the <pb facs="tcp:63130:23"/> Innocent, and ſatisfie the Unbyaſſed. The Relation was thus.</p>
+               <p>There being a <hi>Scandalous Report,</hi> publiſhed in Print more than once, <hi>That</hi> Samuel Jennings <hi>Whipt his Maid moſt unmercifully, naked in her Bed,</hi> thereby endeavouring to render him
+<hi>Cruel, Immodeſt</hi> and <hi>Obſcene,</hi> and I be<g ref="char:EOLhyphen"/>ing at that time (when this pretend<g ref="char:EOLhyphen"/>ed Act was done) in <hi>Weſt Jerſey,</hi> where I did much frequent his Houſe, and knowing the Truth of this mat<g ref="char:EOLhyphen"/>ter, do certifie it, as it really was, which is thus; The Maid lay with their young Child, which then cryed extreamly for a conſiderable time, and her Maſter and Miſtreſs knockt and called very much, but by no means could make her take notice of it, in<g ref="char:EOLhyphen"/>ſomuch that they feared the Child would have been harmed, whereupon her Maſter run up Stairs, having his Whip in his Hand, at whoſe coming ſhe ſtarts and ſate upright in her Bed, and in that poſture he gave her Two <pb n="43" facs="tcp:63130:23"/> or Three ſtrokes over the Back, and <hi>no otherwiſe.</hi> The Maid lived with him a conſiderable time after this, and I have heard her ſpeak very well of him, never complaining of any hard uſage. This is Atteſted by me,</p>
+               <closer>
+                  <dateline>London,
+<date>23. <hi>of</hi> 11. <hi>Month,</hi> 1694.</date>
+                  </dateline>
+                  <signed>Sarah Collins.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
